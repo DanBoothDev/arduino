@@ -1,13 +1,13 @@
 /*
-	LED Blinker
+    LED Blinker
 
     Turns an LED on, waits for a period of time then turns it off
 
-	The circuit:
-	* Output - LED connected to pin #13
+    The circuit:
+    * Output - LED connected to pin #13
 
-	Created 20 AUG 2017
-	By Dan Booth
+    Created 20 AUG 2017
+    By Dan Booth
 
 */
 

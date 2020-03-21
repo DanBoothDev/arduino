@@ -8,4 +8,4 @@ A collection of arduino sketches.
 
 ### LEDs
 Who doesn't like LEDs?
-- [Basic LED](led-basic/led-basic.ino) - blink and you'll miss it
+- [Basic LED](led-basic/led-basic.ino) - hello world for LEDs
