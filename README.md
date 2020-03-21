@@ -1,4 +1,4 @@
-![Image of Arduino](docs/arduino.jpg)
+![Image of Arduino](img/arduino.jpg)
 
 # arduino
 
