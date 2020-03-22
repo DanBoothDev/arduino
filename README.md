@@ -26,3 +26,6 @@ A collection of arduino sketches.
 
 #### Intro
 - [Basic Serial Comms](serial-hello-world/serial-hello-world.ino) - hello world for serial comms
+
+#### LDR
+- [LDR Value](serial-ldr/serial-ldr.ino) - prints the value of the LDR 
