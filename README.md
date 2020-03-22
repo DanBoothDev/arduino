@@ -17,3 +17,4 @@ A collection of arduino sketches.
 
 ### LED - LDR
 - [LDR LED Blink](led-ldr-blink/led-ldr-blink.ino) - using a LDR to control the LED blink rate
+- [LDR LED Brightness](led-ldr-brightness/led-ldr-brightness.ino) - using a LDR to change the LED brightness
