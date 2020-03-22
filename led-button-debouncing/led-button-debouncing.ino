@@ -29,7 +29,7 @@ void loop(){
     
     // check for a transition from low to high
     if ((buttonVal == HIGH) && (prevButtonVal == LOW)){
-        ledState = 1 - state;
+        ledState = 1 - ledState;
         delay(TRANSITION_DELAY);
     }
     prevButtonVal = buttonVal;
